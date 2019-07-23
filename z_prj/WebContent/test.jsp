@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	얼마 안남음
+	얼마 안남음 시간 개빠름
 </body>
 </html>
